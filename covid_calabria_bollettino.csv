@@ -1,7 +1,0 @@
-data;regione;denominazione_provincia;ricoverati_in_reparto;ricoverati_in rianimazione;totale_ospedalizzati;isolamento_domiciliare;tamponi;totale_attualmente_positivi;dimessi_guariti;deceduti;totale_casi;quantena_volontaria;rientrati_da_zone_a_rischio_registrati
-12/03/2020 18:00;Calabria;Catanzaro;5;0;5;0;n.d.;5;0;0;5;396;n.d.
-12/03/2020 18:00;Calabria;Cosenza;7;2;9;1;n.d.;10;0;0;10;430;n.d.
-12/03/2020 18:00;Calabria;Crotone;0;0;0;5;n.d.;5;0;0;5;140;n.d.
-12/03/2020 18:00;Calabria;Vibo Valentia;0;0;0;4;n.d.;4;0;0;4;363;n.d.
-12/03/2020 18:00;Calabria;Reggio Calabria;4;0;4;6;n.d.;10;1;0;11;1053;n.d.
-12/03/2020 18:00;Calabria;Totale Regione Calabria;16;2;18;16;360;34;1;0;35;2382;5008
